@@ -1,2 +1,2 @@
-# IOS-Membership-Inference-Attack
-IOS Novel Membership Inference Attack
+# SPOS-Membership-Inference-Attack
+SPOS Novel Membership Inference Attack
